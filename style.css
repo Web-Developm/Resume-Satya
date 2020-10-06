@@ -203,9 +203,9 @@ i{
 }
 
 .animate__animated.animate__fadeInUp{
-  --animate-duration:3s;
+  --animate-duration:4s;
 }
 
 .animate__animated.animate__zoomIn{
-  --animate-duration:5s;
+  --animate-duration:8s;
 }
